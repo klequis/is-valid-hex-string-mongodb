@@ -16,8 +16,4 @@ describe('db/helpers.js', function() {
       expect(isValidHexIdString('astringof24castringof24c')).to.equal(false)
     })
   })
-
-  describe('test ObjectIdToHexString', function() {
-    
-  })
 })
