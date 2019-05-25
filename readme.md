@@ -1,0 +1,1 @@
+Example of how to check if a string is a valid MongoDB hex/bson id
